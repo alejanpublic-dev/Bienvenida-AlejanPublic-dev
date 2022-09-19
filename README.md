@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Me llamo: Manuel garcia</h1>
+<h1 align="center">Hola 👋, Me llamo: Manuel garcia</h1>
 <h3 align="center">Soy un desarrollador apasionado</h3>
 
 - 🌱 I’m currently learning **www.educacionit.com**
