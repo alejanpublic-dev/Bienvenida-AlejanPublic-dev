@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo: Manuel garcia</h1>
 <h3 align="center">Soy un desarrollador apasionado</h3>
 
-- 🌱 I’m currently learning **www.educacionit.com**
+- 🌱 I’m currently learning **IFTS N°18**
 
 - 👨‍💻 All of my projects are available at [www.alejanpublic-dev.com.ar](www.alejanpublic-dev.com.ar)
 
