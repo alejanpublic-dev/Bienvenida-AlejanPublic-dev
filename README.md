@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Estudiante del Primer semestre de Desarrollo de Software **IFTS N°18** 
 
-- 👨‍💻 All of my projects are available at [www.alejanpublic-dev.com.ar]([www.alejanpublic-dev.com.ar](https://alejanpublic-dev.github.io/WebSite-SoporteTec/))
+- 👨‍💻 All of my projects are available at [www.alejanpublic-dev.com.ar](https://alejanpublic-dev.github.io/WebSite-SoporteTec/)
 
 - 💬 Ask me about **HTML, CSS, JS, PYTHON, SQL, Node.js, React**
 
