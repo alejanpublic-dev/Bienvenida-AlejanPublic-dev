@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [www.alejanpublic-dev.com.ar](https://alejanpublic-dev.github.io/WebSite-SoporteTec/)
 
-- 💬 Ask me about **HTML, CSS, JS, PYTHON, SQL, Node.js, React**
+- 💬 Ask me about **HTML, CSS, JS, PYTHON, SQL, Linux, Redes**
 
 - 📫 How to reach me **alejanpublic.dev@gmail.com**
 
